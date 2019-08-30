@@ -4,7 +4,7 @@ db = SQLAlchemy()
 
 class Channel(db.Model):
     __tablename__ = "channel"
-    
+
     id = db.Column(db.Integer, primary_key=True)
     title = db.Column(db.String())
     link = db.Column(db.String())
@@ -33,6 +33,5 @@ class Item(db.Model):
     media_content = db.Column(db.String())
     media_credit = db.Column(db.String())
     media_description = db.Column(db.String())
-    time = db.Column(db.String())
     channel_id = db.Column(db.Integer, db.ForeignKey('channel.id'))
     channel = db.relationship(Channel)
