@@ -19,7 +19,7 @@ def load_channel(file_name):
                               atom=row[2], description=row[3],
                               language=row[4], copyright=row[5],
                               lastBuildDate=row[6], img_title=row[7],
-                              img_url=row[8], img_link=row[9]])
+                              img_url=row[8], img_link=row[9])
             db.session.add(channel)
             db.commit()
 
@@ -33,7 +33,7 @@ def load_item(file_name):
                         atom=row[2], description=row[3],
                         creator=row[4], pubDate=row[5],
                         category=row[6], media_content=row[7],
-                        media_credit=row[8], media_description=row[9]])
+                        media_credit=row[8], media_description=row[9])
             db.session.add(item)
             db.commit()
 
