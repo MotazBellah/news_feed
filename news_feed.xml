@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology?emc=rss&amp;partner=rss</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2019 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 30 Aug 2019 16:09:44 +0000</lastBuildDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology?emc=rss&amp;partner=rss</link>
+    </image>
+    <item>
+      <title>India’s Restaurants Rebel Against Food Delivery Apps</title>
+      <link>https://www.nytimes.com/2019/08/29/technology/india-restaurants-logout-delivery-zomato.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/29/technology/india-restaurants-logout-delivery-zomato.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/29/technology/india-restaurants-logout-delivery-zomato.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Frustrated by the steep commissions and discounts that apps like Zomato and Uber Eats push on restaurants, thousands have started a movement to #Logout from them.</description>
+      <dc:creator>Vindu Goel and Ayesha Venkataraman</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 14:37:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indian Food (Cuisine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discount Selling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Eats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zomato Media Pvt Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Swiggy (Bundl Technologies Pvt Ltd)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/30/business/30jpindianwalkout1-print/00indianwalkout2-moth.jpg" width="151"></media:content>
+      <media:credit>Sahiba Chawdhary for The New York Times</media:credit>
+      <media:description>A Zomato delivery agent collecting a delivery order at a restaurant in the Galleria Market in Gurugram, a New Delhi suburb home to many tech companies, including Zomato.</media:description>
+    </item>
+    <item>
+      <title>Uber, Lyft and DoorDash Pledge $90 Million to Fight Driver Legislation in California</title>
+      <link>https://www.nytimes.com/2019/08/29/technology/uber-lyft-ballot-initiative.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/29/technology/uber-lyft-ballot-initiative.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/29/technology/uber-lyft-ballot-initiative.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A state proposal, Assembly Bill 5, could give working drivers more employee rights. The companies said they were willing to start a ballot initiative to thwart it.</description>
+      <dc:creator>Kate Conger</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 15:19:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freelancing, Self-Employment and Independent Contracting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lyft Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DoorDash (Mobile App)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/30/business/29gigworkers-print/29gigworkers-moth.jpg" width="151"></media:content>
+      <media:credit>Aileen Son for The New York Times</media:credit>
+      <media:description>Travelers waiting for rides to arrive at San Francisco International Airport. Uber and Lyft are fighting a bill in California that would change the legal designation of their drivers.</media:description>
+    </item>
+    <item>
+      <title>Peloton Is a Phenomenon. Can It Last?</title>
+      <link>https://www.nytimes.com/2019/08/28/technology/peloton-ipo.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/28/technology/peloton-ipo.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/28/technology/peloton-ipo.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Exercise manias like the Thighmaster and Tae Bo have all come and gone. Peloton is trying to defy that trend.</description>
+      <dc:creator>Erin Griffith</dc:creator>
+      <pubDate>Thu, 29 Aug 2019 04:54:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Peloton Interactive Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inventions and Patents</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Foley, John (Fitness Executive)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/28/business/28PELOTON/NYT-Peloton-Illustration-Still-moth.jpg" width="151"></media:content>
+      <media:credit>Pablo Rochat</media:credit>
+    </item>
+    <item>
+      <title>The Week in Tech: Are You Ready for Facebook’s Future?</title>
+      <link>https://www.nytimes.com/2019/08/30/technology/facebook-instagram-threads.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/30/technology/facebook-instagram-threads.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/30/technology/facebook-instagram-threads.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>We got a glimpse of what the social network’s privacy-first focus might look like in practice. You may not love it.</description>
+      <dc:creator>Jamie Condliffe</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 13:00:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TheVerge.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Levandowski, Anthony</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wojcicki, Susan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/30/business/30technewsletter/30technewsletter-moth.jpg" width="151"></media:content>
+      <media:credit>Amr Alfiky/Associated Press</media:credit>
+      <media:description>Facebook was said to be testing an app for Instagram that would let users opt in to sharing data with friends automatically.</media:description>
+    </item>
+    <item>
+      <title>Don’t Use Bootleg or Street Vaping Products, C.D.C. Warns</title>
+      <link>https://www.nytimes.com/2019/08/30/health/vaping-e-cigarettes-marijuana-cdc.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/30/health/vaping-e-cigarettes-marijuana-cdc.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/30/health/vaping-e-cigarettes-marijuana-cdc.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>With more than 200 cases of respiratory illnesses possibly related to vaping, and no single culprit, public health experts are advising young people not to buy cannabis and other e-cigarette products off the street.</description>
+      <dc:creator>Sheila Kaplan</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 15:34:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Cigarettes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marijuana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lungs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/30/science/30CDC/30CDC-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <media:description>An assembled cannabis vape cartridge at a facility in California.</media:description>
+    </item>
+    <item>
+      <title>How Tainted Gold May Have Ended Up in Your Phone</title>
+      <link>https://www.nytimes.com/2019/08/30/the-weekly/gold-apple-iphone-colombia.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/30/the-weekly/gold-apple-iphone-colombia.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/30/the-weekly/gold-apple-iphone-colombia.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A New TV Show from The New York Times on FX and Hulu</description>
+      <pubDate>Fri, 30 Aug 2019 15:55:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflict Minerals and Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">FX (TV Network)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hulu.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duque, Ivan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/09/01/universal/01theweekly-applesgold-goldbars/01theweekly-applesgold-goldbars-moth.jpg" width="151"></media:content>
+      <media:credit>&#34;The Weekly&#34;/The New York Times/FX/Hulu</media:credit>
+    </item>
+    <item>
+      <title>What Does VSCO Think About the ‘VSCO Girls’?</title>
+      <link>https://www.nytimes.com/2019/08/30/style/vsco-girls.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/30/style/vsco-girls.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/30/style/vsco-girls.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>We spoke to the brands behind Gen Z’s highly aestheticized (and widely parodied) personal brand.</description>
+      <dc:creator>Becky Hughes</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 09:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Visual Supply Co (VSCO)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-fashion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-selfcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/09/01/fashion/30VSCO-art/30VSCO-art-moth.jpg" width="151"></media:content>
+      <media:credit>Ellen Weinstein</media:credit>
+    </item>
+    <item>
+      <title>Hospitals Should Replace Infection-Prone Scopes With Safer Models, F.D.A. Says</title>
+      <link>https://www.nytimes.com/2019/08/29/health/duodenoscopes-infections.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/29/health/duodenoscopes-infections.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/29/health/duodenoscopes-infections.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Reusable duodenoscopes, used for internal examinations of patients, have been linked to a series of hospital outbreaks.</description>
+      <dc:creator>Roni Caryn Rabin</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 04:27:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Devices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antibiotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Resistance (Microbial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cameras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fujifilm Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pentax Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shenoy, Erica S</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/29/science/29SCOPES/29SCOPES-moth.jpg" width="151"></media:content>
+      <media:credit>Science Photo Library/Getty Images</media:credit>
+      <media:description>An X-ray of a duodenoscope used to evaluate a healthy patient. </media:description>
+    </item>
+    <item>
+      <title>Founders of Successful Tech Companies Are Mostly Middle-Aged</title>
+      <link>https://www.nytimes.com/2019/08/29/business/tech-start-up-founders-nest.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/29/business/tech-start-up-founders-nest.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/29/business/tech-start-up-founders-nest.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Some of tech’s biggest names had founders in their teens. But new research shows that for fast-growing start-ups in the U.S., the average age was 45.</description>
+      <dc:creator>Seema Jayachandran</dc:creator>
+      <pubDate>Thu, 29 Aug 2019 16:18:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thermostats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fadell, Anthony M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Economic Review: Insights (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Azoulay, Pierre (Economist)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim, J Daniel (Economist)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Benjamin Felt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miranda, Javier (Economist)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/09/01/business/00VIEW-01/00VIEW-01-moth.jpg" width="151"></media:content>
+      <media:credit>Wei Leng Tay/Bloomberg</media:credit>
+      <media:description>Tony Fadell started Nest in 2010, after leading the engineering team that created the iPod and playing a crucial role in the development of the iPhone. Like many entrepreneurs, he was then over 40.</media:description>
+    </item>
+    <item>
+      <title>Organoids Are Not Brains. How Are They Making Brain Waves?</title>
+      <link>https://www.nytimes.com/2019/08/29/science/organoids-brain-alysson-muotri.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/29/science/organoids-brain-alysson-muotri.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/29/science/organoids-brain-alysson-muotri.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Clusters of living brain cells are teaching scientists about diseases like autism. With a new finding, some experts wonder if these organoids may become too much like the real thing.</description>
+      <dc:creator>Carl Zimmer</dc:creator>
+      <pubDate>Thu, 29 Aug 2019 20:33:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zika Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stem Cells</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Space Station</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biotechnology and Bioengineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cell (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California, San Diego</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yamanaka, Shinya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Muotri, Alysson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/29/science/29SCI-ORGANOIDS7/merlin_159814383_3a1e10a5-c0f9-42a8-beb0-60de0cf8d87c-moth.jpg" width="151"></media:content>
+      <media:credit>Jenna Schoenefeld for The New York Times</media:credit>
+      <media:description>Fernanda Cugola, a postdoctoral researcher, was a part of a team examining the effects of the Zika virus on brain organoids.</media:description>
+    </item>
+    <item>
+      <title>Facebook Tightens Rules on Verifying Political Advertisers</title>
+      <link>https://www.nytimes.com/2019/08/28/technology/facebook-election-advertising-disinformation.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/28/technology/facebook-election-advertising-disinformation.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/28/technology/facebook-election-advertising-disinformation.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Bracing for the 2020 U.S. presidential election, the company adds more steps for buyers of political ads. Disinformation experts aren’t sure it is enough.</description>
+      <dc:creator>Davey Alba</dc:creator>
+      <pubDate>Wed, 28 Aug 2019 19:29:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2018)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/28/world/28facebook-1/28facebook-1-moth.jpg" width="151"></media:content>
+      <media:credit>Paulo Nunes dos Santos for The New York Times</media:credit>
+      <media:description>Facebook’s election integrity center in Dublin in May. The social network has worked to secure its site during elections, setting up so-called war rooms to handle false content and bad ads.</media:description>
+    </item>
+    <item>
+      <title>Philip Morris and Altria Are in Talks to Merge</title>
+      <link>https://www.nytimes.com/2019/08/27/health/philip-morris-altria-merger-tobacco.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/27/health/philip-morris-altria-merger-tobacco.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/27/health/philip-morris-altria-merger-tobacco.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>With Altria’s investment in Juul, a combination of the tobacco giants would dominate the international market for e-cigarettes.</description>
+      <dc:creator>Sheila Kaplan</dc:creator>
+      <pubDate>Wed, 28 Aug 2019 04:17:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Cigarettes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marijuana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Altria Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Juul Labs Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Philip Morris Companies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/27/science/27TOBACCO2/27TOBACCO2-moth.jpg" width="151"></media:content>
+      <media:credit>Khue Bui for The New York Times</media:credit>
+      <media:description>With its global reach, Philip Morris is now much larger than its former parent, Altria.</media:description>
+    </item>
+    <item>
+      <title>Telegram Pushes Ahead With Plans for ‘Gram’ Cryptocurrency</title>
+      <link>https://www.nytimes.com/2019/08/27/technology/telegram-cryptocurrency-gram.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/27/technology/telegram-cryptocurrency-gram.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/27/technology/telegram-cryptocurrency-gram.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>When Facebook announced plans for a similar effort this year, the regulatory pushback was fierce. But Telegram appears undeterred.</description>
+      <dc:creator>Nathaniel Popper</dc:creator>
+      <pubDate>Wed, 28 Aug 2019 20:39:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libra (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telegram LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durov, Pavel Valeryevich (1984- )</category>
+    </item>
+    <item>
+      <title>Former Star Google and Uber Engineer Charged With Theft of Trade Secrets</title>
+      <link>https://www.nytimes.com/2019/08/27/technology/google-trade-secrets-levandowski.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/27/technology/google-trade-secrets-levandowski.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/27/technology/google-trade-secrets-levandowski.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Anthony Levandowski, one of Silicon Valley’s foremost technologists on autonomous cars, was charged with theft and attempted theft of trade secrets from Google.</description>
+      <dc:creator>Mike Isaac</dc:creator>
+      <pubDate>Wed, 28 Aug 2019 12:31:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Levandowski, Anthony</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Waymo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Property</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/27/business/27levandowski3/27levandowski3-moth.jpg" width="151"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Anthony Levandowski, who was a star engineer at Google and Uber specializing in self-driving technologies, with his lawyer Miles Ehrlich on Tuesday in San Jose.</media:description>
+    </item>
+    <item>
+      <title>The Baroness Fighting to Protect Children Online</title>
+      <link>https://www.nytimes.com/2019/08/27/technology/baroness-kidron-children-tech.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/27/technology/baroness-kidron-children-tech.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/27/technology/baroness-kidron-children-tech.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Beeban Kidron says tech giants exert too much leverage over young users and has pushed laws to change that. “It’s little Timmy in his bedroom versus Mark Zuckerberg in his Valley,” she said.</description>
+      <dc:creator>Natasha Singer</dc:creator>
+      <pubDate>Tue, 27 Aug 2019 16:25:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kidron, Beeban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/07/business/07kidsprivacy/07kidsprivacy-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Eleonora Agostini for The New York Times</media:credit>
+      <media:description>Beeban Kidron has successfully pushed stricter limits on how tech companies can target children online in Britain.</media:description>
+    </item>
+    <item>
+      <title>Netflix Falls Short in Big Screen Debut of ‘The Irishman’</title>
+      <link>https://www.nytimes.com/2019/08/27/business/media/netflix-scorsese-the-irishman.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/27/business/media/netflix-scorsese-the-irishman.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/27/business/media/netflix-scorsese-the-irishman.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Martin Scorsese’s “The Irishman” will debut in select theaters three weeks ahead of its Netflix release, a shorter run than Netflix had hoped.</description>
+      <dc:creator>Nicole Sperling</dc:creator>
+      <pubDate>Thu, 29 Aug 2019 17:57:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Irishman (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cineplex Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scorsese, Martin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stuber, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De Niro, Robert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pacino, Al</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AMC Entertainment Holding Inc.</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/23/business/00NETFLIXIRISHMAN-01/00NETFLIXIRISHMAN-01-moth.jpg" width="151"></media:content>
+      <media:credit>Niko Tavernise/Netflix</media:credit>
+      <media:description>Joe Pesci and Robert DeNiro in “The Irishman.”</media:description>
+    </item>
+    <item>
+      <title>Is It Time to Upend the Periodic Table?</title>
+      <link>https://www.nytimes.com/2019/08/27/science/periodic-table-elements-chemistry.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/27/science/periodic-table-elements-chemistry.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/27/science/periodic-table-elements-chemistry.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The iconic chart of elements has served chemistry well for 150 years. But it’s not the only option out there, and scientists are pushing its limits.</description>
+      <dc:creator>Siobhan Roberts</dc:creator>
+      <pubDate>Thu, 29 Aug 2019 19:01:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemistry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Physics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Chemical Society</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Case Western Reserve University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Educational, Scientific and Cultural Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/27/science/27PERIODICTABLE/27PERIODICTABLE-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Eben Meyer</media:credit>
+    </item>
+    <item>
+      <title>Cadillac’s Last Stand? Storied Brand Aims (Again) for Revival</title>
+      <link>https://www.nytimes.com/2019/08/27/business/cadillac-brand.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/27/business/cadillac-brand.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/27/business/cadillac-brand.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Once the epitome of luxury, the high-end General Motors line is attempting another makeover to catch up with rivals that have overtaken it.</description>
+      <dc:creator>Neal E. Boudette</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 14:37:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Motors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cadillac Division of General Motors Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Utility Vehicles and Light Trucks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/23/business/00cadillac3/00cadillac3-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Nick Hagen for The New York Times</media:credit>
+      <media:description>A Cadillac CT6 in Detroit. Although it is equipped with the Super Cruise driver-assistance system, the model’s sales have fallen 60 percent this year, and General Motors may halt production.</media:description>
+    </item>
+    <item>
+      <title>Lawsuit Over Computer Chips Invokes Trade War With China</title>
+      <link>https://www.nytimes.com/2019/08/26/technology/globalfoundries-tsmc-lawsuit-computer-chips.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/26/technology/globalfoundries-tsmc-lawsuit-computer-chips.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/26/technology/globalfoundries-tsmc-lawsuit-computer-chips.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Globalfoundries has accused T.S.M.C., a competitor in Taiwan, of infringing on 16 patents in a suit that could also affect companies like Apple and Google.</description>
+      <dc:creator>Don Clark</dc:creator>
+      <pubDate>Mon, 26 Aug 2019 21:52:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inventions and Patents</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taiwan Semiconductor Manufacturing Company Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GlobalFoundries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/26/business/26chip/26chip-moth.jpg" width="151"></media:content>
+      <media:credit>Ashley Pon/Bloomberg</media:credit>
+      <media:description>The Taiwan Semiconductor Manufacturing Company’s headquarters in Hsinchu, Taiwan. The company is a huge manufacturer of chips designed by other companies.</media:description>
+    </item>
+    <item>
+      <title>Google Tries to Corral Its Staff After Ugly Internal Debates</title>
+      <link>https://www.nytimes.com/2019/08/23/technology/google-culture-rules.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/23/technology/google-culture-rules.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/23/technology/google-culture-rules.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The tech company, telling its employees to “stop disrupting the workday,” issued new workplace rules designed to rein in its freewheeling culture.</description>
+      <dc:creator>Jack Nicas</dc:creator>
+      <pubDate>Fri, 23 Aug 2019 20:21:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/23/business/23GOOGLE1/23GOOGLE1-moth.jpg" width="151"></media:content>
+      <media:credit>Amy Osborne/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Google is setting new rules to restrain freewheeling discussions among its employees during their work hours.</media:description>
+    </item>
+    <item>
+      <title>Qualcomm Wins Reprieve in F.T.C. Antitrust Case With Appeals Court Ruling</title>
+      <link>https://www.nytimes.com/2019/08/23/technology/qualcomm-ftc-antitrust-injunction.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/23/technology/qualcomm-ftc-antitrust-injunction.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/23/technology/qualcomm-ftc-antitrust-injunction.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A federal appeals court ruled that the chip maker did not have to modify key business practices while the court reviews a lower-court ruling against the company.</description>
+      <dc:creator>Don Clark</dc:creator>
+      <pubDate>Fri, 23 Aug 2019 20:09:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cellular Telephones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royalties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Qualcomm Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Koh, Lucy H</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/23/business/23qualcomm2/23qualcomm2-moth.jpg" width="151"></media:content>
+      <media:credit>Aly Song/Reuters</media:credit>
+      <media:description>A federal appeals court stayed a lower-court ruling that would force Qualcomm to alter business practices the Federal Trade argues are anticompetitive.</media:description>
+    </item>
+    <item>
+      <title>As Amazon Fires Spread, So Do the Misleading Photos</title>
+      <link>https://www.nytimes.com/2019/08/23/world/americas/amazon-rainforest-fire-photos.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/23/world/americas/amazon-rainforest-fire-photos.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/23/world/americas/amazon-rainforest-fire-photos.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The fires are real. But the photographs that celebrities and politicians are sharing? Well, it depends.</description>
+      <dc:creator>Niraj Chokshi</dc:creator>
+      <pubDate>Sat, 24 Aug 2019 03:42:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ronaldo, Cristiano</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DiCaprio, Leonardo</category>
+    </item>
+    <item>
+      <title>Facebook Bans Ads From The Epoch Times</title>
+      <link>https://www.nytimes.com/2019/08/23/technology/facebook-ads-epoch-times.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/23/technology/facebook-ads-epoch-times.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/23/technology/facebook-ads-epoch-times.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The social network has struggled to implement a consistent political advertising policy as groups appear able to get around its transparency rules.</description>
+      <dc:creator>Davey Alba</dc:creator>
+      <pubDate>Fri, 23 Aug 2019 21:07:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Epoch Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Falun Gong</category>
+    </item>
+  </channel>
+</rss>

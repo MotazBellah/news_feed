@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World &gt; Europe</title>
+    <link>https://www.nytimes.com/section/world/europe?emc=rss&amp;partner=rss</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2019 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 30 Aug 2019 21:30:58 +0000</lastBuildDate>
+    <image>
+      <title>NYT &gt; World &gt; Europe</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world/europe?emc=rss&amp;partner=rss</link>
+    </image>
+    <item>
+      <title>Shortchanged: Why British Life Expectancy Is Falling</title>
+      <link>https://www.nytimes.com/2019/08/30/world/europe/uk-life-expectancy.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/30/world/europe/uk-life-expectancy.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/30/world/europe/uk-life-expectancy.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>For the first time in modern history, Britons are living shorter lives, with poor lifestyles, depression and budget cuts the leading causes.</description>
+      <dc:creator>Stephen Castle and Mary Turner</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 19:00:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Longevity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hartlepool, England</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/14/world/xxhartlepool1/xxhartlepool1-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>The food bank run by the Rev. Gemma Sampson, vicar of St. Aidan’s Church in Hartlepool, England, where life expectancy rates are falling sharply.</media:description>
+    </item>
+    <item>
+      <title>Takis, Sculptor Who Made Art From Moving Parts, Dies at 93</title>
+      <link>https://www.nytimes.com/2019/08/30/arts/takis-dead.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/30/arts/takis-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/30/arts/takis-dead.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>His Kinetic works could resemble science projects or unfinished constructions. When they were activated, their movements could startle, educate and entertain.</description>
+      <dc:creator>Roberta Smith</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 18:27:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takis (1925-2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sculpture</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/31/obituaries/00takis1/00takis1-moth.jpg" width="151"></media:content>
+      <media:credit>Tony Evans/Getty Images</media:credit>
+      <media:description>Takis, shown next to one of his works in 1962, was a proponent of Kinetic art — sculptures that used moving parts to explore movement. His materials included motors, magnets and wires.</media:description>
+    </item>
+    <item>
+      <title>Iranian Journalist Seeks Asylum After Fleeing Foreign Minister’s Press Corps</title>
+      <link>https://www.nytimes.com/2019/08/30/world/europe/iranian-journalist-asylum.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/30/world/europe/iranian-journalist-asylum.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/30/world/europe/iranian-journalist-asylum.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The journalist, Amir Tohid Fazel, slipped away from the delegation that accompanied Mohammad Javad Zarif, Iran’s foreign minister, to Sweden.</description>
+      <dc:creator>Christina Anderson</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 16:19:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zarif, Mohammad Javad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/29/world/29iran-journalist/29iran-journalist-moth.jpg" width="151"></media:content>
+      <media:credit>Tt News Agency/Reuters</media:credit>
+      <media:description>Iranian exile groups demonstrating this month outside the Swedish Parliament in Stockholm during the visit of Iran’s foreign minister, Mohammad Javad Zarif.</media:description>
+    </item>
+    <item>
+      <title>Poland Had the Royal Castle Ready. Then Trump Canceled His Trip.</title>
+      <link>https://www.nytimes.com/2019/08/30/world/europe/trump-poland-duda-kaczynski.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/30/world/europe/trump-poland-duda-kaczynski.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/30/world/europe/trump-poland-duda-kaczynski.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Ahead of national elections, Poland’s governing party had hoped that President Trump’s visit would give it a boost and blunt concerns that it was undermining democracy.</description>
+      <dc:creator>Marc Santora</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 15:25:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaczynski, Jaroslaw</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duda, Andrzej (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Law and Justice (Poland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Warsaw (Poland)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/30/world/30poland-trump1/30poland-trump1-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump with the President Andrzej Duda of Poland at the White House in June.</media:description>
+    </item>
+    <item>
+      <title>In Siberia, a First Female Mayor Builds a National Profile</title>
+      <link>https://www.nytimes.com/2019/08/30/world/europe/siberia-mayor-yakutsk.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/30/world/europe/siberia-mayor-yakutsk.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/30/world/europe/siberia-mayor-yakutsk.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Women are a rarity in Russian politics, as was the free election that brought Sardana Avksentieva to power. But what really sets her apart is her thriftiness.</description>
+      <dc:creator>Neil MacFarquhar</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 20:18:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sardana V. Avksentieva</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yakutia (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yakutsk, Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/15/world/xxrussia-mayor-profile01/xxrussia-mayor-profile01-moth.jpg" width="151"></media:content>
+      <media:credit>Emile Ducke for The New York Times</media:credit>
+      <media:description>Sardana V. Avksentieva, the mayor of the Siberian city of Yakutsk, has become a social media star.</media:description>
+    </item>
+    <item>
+      <title>5 New Standout Hotels in London</title>
+      <link>https://www.nytimes.com/2019/08/30/travel/hotels-london.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/30/travel/hotels-london.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/30/travel/hotels-london.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>England’s capital is experiencing a hotel boom. These five new standouts help make the case that London is the world’s best hotel city.</description>
+      <dc:creator>Christian L. Wright</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 17:40:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/09/travel/xxhotels-london-video-promo/xxhotels-london-video-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Mandarin Oriental</media:credit>
+    </item>
+    <item>
+      <title>What’s Next for Brexit? Six Possible Outcomes</title>
+      <link>https://www.nytimes.com/2019/08/30/world/europe/brexit-scenarios-boris-johnson.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/30/world/europe/brexit-scenarios-boris-johnson.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/30/world/europe/brexit-scenarios-boris-johnson.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The Brexit crisis is reaching a crescendo. But the outcome depends not just on Boris Johnson but on his allies and enemies both at home and abroad.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 09:30:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Democrats (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Corbyn, Jeremy (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swinson, Jo (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/29/world/29brexitscenarios1/29brexitscenarios1-moth.jpg" width="151"></media:content>
+      <media:credit>Olivia Harris for The New York Times</media:credit>
+      <media:description>Pro-European Union protesters outside the Houses of Parliament in London, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Boris Johnson, Giuseppe Conte, Dorian: Your Friday Briefing</title>
+      <link>https://www.nytimes.com/2019/08/30/briefing/boris-johnson-giuseppe-conte-dorian.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/30/briefing/boris-johnson-giuseppe-conte-dorian.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/30/briefing/boris-johnson-giuseppe-conte-dorian.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Here’s what you need to know.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 07:00:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chick-fil-A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Conte, Giuseppe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davidson, Ruth Elizabeth (1978- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Del Rey, Lana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maxwell, Ghislaine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Norman ____ Rockwell! (Album)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/30/world/30ambriefing1-promo/30ambriefing1-moth.jpg" width="151"></media:content>
+      <media:credit>Jane Barlow/Press Association, via Associated Press</media:credit>
+    </item>
+    <item>
+      <title>Holidays Are a Way of Life in France in August. Yellow Vests Can’t Afford Them.</title>
+      <link>https://www.nytimes.com/2019/08/29/world/europe/yellow-vests-summer-vacation-france.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/29/world/europe/yellow-vests-summer-vacation-france.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/29/world/europe/yellow-vests-summer-vacation-france.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>France is justifiably famous for its long summer vacations. But more and more can no longer afford to go, reflecting an increasingly unequal society.</description>
+      <dc:creator>Norimitsu Onishi</dc:creator>
+      <pubDate>Thu, 29 Aug 2019 16:40:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yellow Vests Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/30/world/30yellow-vest-vacation-reefer/xxyellow-vest-vacation1-moth.jpg" width="151"></media:content>
+      <media:credit>Mauricio Lima for The New York Times</media:credit>
+      <media:description>Members of the Yellow Vest movement at a roundabout near Aumetz, France, in August.</media:description>
+    </item>
+    <item>
+      <title>W.H.O. Warns of ‘Dramatic’ Rise in Measles in Europe</title>
+      <link>https://www.nytimes.com/2019/08/29/world/europe/measles-uk-czech-greece-albania.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/29/world/europe/measles-uk-czech-greece-albania.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/29/world/europe/measles-uk-czech-greece-albania.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The disease had a resurgence in Britain, Greece, the Czech Republic and Albania, the World Health Organization said.</description>
+      <dc:creator>Palko Karasz</dc:creator>
+      <pubDate>Thu, 29 Aug 2019 16:11:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Measles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/29/world/29measles/29measles-moth.jpg" width="151"></media:content>
+      <media:credit>Geoff Caddick/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A toddler receiving the combined measles, mumps and rubella vaccination in Wales.</media:description>
+    </item>
+    <item>
+      <title>Britain’s Queen Is a Figurehead, but She Just Got Dragged Into Brexit Politics</title>
+      <link>https://www.nytimes.com/2019/08/29/world/europe/uk-queen-parliament-boris-johnson.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/29/world/europe/uk-queen-parliament-boris-johnson.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/29/world/europe/uk-queen-parliament-boris-johnson.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>When Boris Johnson asked Queen Elizabeth II to suspend Parliament, many who opposed his move hoped she would intervene. But experts say she had little sway over the matter.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Thu, 29 Aug 2019 17:24:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/29/world/29queen1/merlin_158384445_448afa0a-56f6-42b7-ab47-c7c564a04d8d-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Wpa</media:credit>
+      <media:description>Queen Elizabeth II with Boris Johnson in July. In her decades on the throne, she has maintained a strongly apolitical persona.</media:description>
+    </item>
+    <item>
+      <title>Babies Display ‘Werewolf Syndrome’ After Getting Anti-Baldness Drug by Mistake</title>
+      <link>https://www.nytimes.com/2019/08/29/world/europe/spain-werewolf-syndrome-children.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/29/world/europe/spain-werewolf-syndrome-children.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/29/world/europe/spain-werewolf-syndrome-children.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>At least 17 children, including babies, began growing hair all over their bodies after a hair loss treatment was mislabeled as heartburn medicine.</description>
+      <dc:creator>Raphael Minder</dc:creator>
+      <pubDate>Thu, 29 Aug 2019 17:00:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baldness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hair</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Farmaquimica Sur</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heartburn</category>
+      <category domain="">hypertrichosis</category>
+    </item>
+    <item>
+      <title>E.U. Has Been Called Antidemocratic. Now It Asks if U.K. Has the Same Problem.</title>
+      <link>https://www.nytimes.com/2019/08/29/world/europe/boris-johnson-parliament-eu.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/29/world/europe/boris-johnson-parliament-eu.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/29/world/europe/boris-johnson-parliament-eu.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Reading behind the lines of Boris Johnson’s suspension of Parliament, many diplomats in Europe see the move as a hardball negotiation tactic.</description>
+      <dc:creator>Steven Erlanger and Matina Stevis-Gridneff</dc:creator>
+      <pubDate>Thu, 29 Aug 2019 12:33:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/29/world/29eu-brexit1/29eu-brexit1-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Leal-Olivas/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A protester opposed to Brexit outside Parliament in London on Thursday.</media:description>
+    </item>
+    <item>
+      <title>How Giuseppe Conte of Italy Went From Irrelevant to Irreplaceable</title>
+      <link>https://www.nytimes.com/2019/08/29/world/europe/italy-conte-government-salvini.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/29/world/europe/italy-conte-government-salvini.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/29/world/europe/italy-conte-government-salvini.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The prime minister of the last Italian government got the mandate to form the next Italian government, completing a remarkable political resuscitation.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Thu, 29 Aug 2019 23:43:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Five Star Movement (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">League (Italian Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Conte, Giuseppe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/29/world/29italy1-sub/29italy1-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Ciro De Luca/Reuters</media:credit>
+      <media:description>Prime Minister Giuseppe Conte of Italy after meeting with President Sergio Mattarella in Rome on Thursday.</media:description>
+    </item>
+    <item>
+      <title>After Backlash, Boris Johnson Promises to Speed Up Brexit Talks With Brussels</title>
+      <link>https://www.nytimes.com/2019/08/29/world/europe/boris-johnson-brexit-parliament-backlash.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/29/world/europe/boris-johnson-brexit-parliament-backlash.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/29/world/europe/boris-johnson-brexit-parliament-backlash.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The prime minister sought to calm fury over his maneuver to suspend Parliament and limit the ability of his critics to thwart a “no-deal” Brexit.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Thu, 29 Aug 2019 21:30:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davidson, Ruth Elizabeth (1978- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bercow, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/29/world/29brexit1-sub/29brexit1-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Olivia Harris for The New York Times</media:credit>
+      <media:description>Pro-European Union protestors outside the Houses of Parliament in London on Thursday.</media:description>
+    </item>
+    <item>
+      <title>France’s Chicest Hotel Family Has Come to Languedoc. Is That a Good Thing?</title>
+      <link>https://www.nytimes.com/2019/08/29/travel/france-languedoc-beach-vacation.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/29/travel/france-languedoc-beach-vacation.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/29/travel/france-languedoc-beach-vacation.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The Costes have opened an outpost on the region’s decidedly unglamorous coastline. But outside the confines of their high-design resort, a low-key charm beckons.</description>
+      <dc:creator>Alexander Lobrano</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 18:19:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/09/01/travel/28languedoc-france7/28languedoc-france7-moth.jpg" width="151"></media:content>
+      <media:credit>Gabrielle Voinot for The New York Times</media:credit>
+      <media:description>The Plage Palace in Palavas-Les-Flots is the first outpost from the well-known Costes family of hoteliers in Languedoc.</media:description>
+    </item>
+    <item>
+      <title>Brexit, Italy, Prince Andrew: Your Thursday Briefing</title>
+      <link>https://www.nytimes.com/2019/08/29/briefing/brexit-italy-prince-andrew.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/29/briefing/brexit-italy-prince-andrew.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/29/briefing/brexit-italy-prince-andrew.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Here’s what you need to know.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Thu, 29 Aug 2019 06:53:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/29/world/29ambriefing-europromo/29ambriefing1-moth.jpg" width="151"></media:content>
+      <media:credit>Henry Nicholls/Reuters</media:credit>
+    </item>
+    <item>
+      <title>Bold Move or Coup? Social Media Reacts to Boris Johnson</title>
+      <link>https://www.nytimes.com/2019/08/28/world/europe/reaction-boris-johnson-brexit.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/28/world/europe/reaction-boris-johnson-brexit.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/28/world/europe/reaction-boris-johnson-brexit.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The prime minister’s move to cut short Parliament’s Brexit debate roiled an already divided Britain.</description>
+      <dc:creator>Eleanor Dunn</dc:creator>
+      <pubDate>Wed, 28 Aug 2019 22:16:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/28/world/28brexit-social/28brexit-social-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Sorabji/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Anti-Brexit demonstrators gathered on Wednesday afternoon on Whitehall, near the entrance to Downing Street in London.</media:description>
+    </item>
+    <item>
+      <title>Overlooked No More: Elizabeth Rona, Pioneering Scientist Amid Dangers of War</title>
+      <link>https://www.nytimes.com/2019/08/28/obituaries/elizabeth-rona-overlooked.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/28/obituaries/elizabeth-rona-overlooked.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/28/obituaries/elizabeth-rona-overlooked.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Rona moved from lab to lab — and country to country — and in the process made important findings about the behavior of atoms and radioactivity.</description>
+      <pubDate>Thu, 29 Aug 2019 14:15:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rona, Elizabeth (1890-1981)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radiation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uranium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Isotopes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biographical Information</category>
+      <category domain="">Past Tense</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/09/02/obituaries/02overlooked-rona/00overlooked-rona1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Hans Pettersson Archive/Gothenburg University Library</media:credit>
+      <media:description>The scientist Elizabeth Rona in about 1925 at the Radium Institute in Vienna. Through her work, the world would learn how radioactivity could be used as a clock in studying the earth’s history, informing the modern practice of geochronology.</media:description>
+    </item>
+    <item>
+      <title>What Did Boris Johnson Just Do to Parliament?</title>
+      <link>https://www.nytimes.com/2019/08/28/world/europe/british-parliament-suspended.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/08/28/world/europe/british-parliament-suspended.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/08/28/world/europe/british-parliament-suspended.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The British prime minister has slashed the time lawmakers will have to debate and deflect his Brexit plans, with a deadline fast approaching. Here’s what you need to know.</description>
+      <dc:creator>Megan Specia and Richard Pérez-Peña</dc:creator>
+      <pubDate>Fri, 30 Aug 2019 14:37:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/08/28/world/28britain-explainer/28britain-explainer-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Stansall/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Prime Minister Boris Johnson has promised that Britain will leave the European Union on Oct. 31, with or without a deal.</media:description>
+    </item>
+  </channel>
+</rss>
