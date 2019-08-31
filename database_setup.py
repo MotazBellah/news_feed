@@ -25,6 +25,7 @@ class Item(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     title = db.Column(db.String())
     link = db.Column(db.String())
+    guid = db.Column(db.String())
     atom = db.Column(db.String())
     description = db.Column(db.String())
     creator = db.Column(db.String())

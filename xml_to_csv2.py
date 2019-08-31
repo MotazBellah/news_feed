@@ -111,6 +111,9 @@ for j in root.findall('channel'):
             link = i.find('link').tag
             item_head.append(link)
 
+            guid = i.find('guid').tag
+            item_head.append(guid)
+
             # atom = i.find('atom').tag
             item_head.append('atom')
 
@@ -145,14 +148,20 @@ for j in root.findall('channel'):
         link = i.find('link').text
         item_node.append(link)
 
+        guid = i.find('guid').text
+        item_node.append(guid)
+
         atom = i.find('atom:link', ns).get('href')
         item_node.append(atom)
 
         description = i.find('description').text
         item_node.append(description)
 
-        # creator = i.find('dc:creator', ns).text
-        # item_node.append(creator)
+        try:
+            creator = i.find('dc:creator', ns).text
+        except Exception as e:
+            creator = " "
+        item_node.append(creator)
 
         pubDate = i.find('pubDate').text
         item_node.append(pubDate)
@@ -163,21 +172,21 @@ for j in root.findall('channel'):
         try:
             media_content = i.find('media:content', ns).get('url')
         except Exception as e:
-            continue
+            media_content = ' '
         else:
             item_node.append(media_content)
             #
         try:
             media_credit = i.find('media:credit', ns).text
         except Exception as e:
-            continue
+            media_credit = ' '
         else:
             item_node.append(media_credit)
             #
         try:
             media_description = i.find('media:description', ns).text
         except Exception as e:
-            continue
+            media_description = ' '
         else:
             item_node.append(media_description)
 
