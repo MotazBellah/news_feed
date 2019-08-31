@@ -5,8 +5,8 @@ from database_setup import *
 
 app = Flask(__name__)
 
-# app.config['SQLALCHEMY_DATABASE_URI']=os.environ.get('DATABASE_URL')
-app.config['SQLALCHEMY_DATABASE_URI']='sqlite:///news.db'
+app.config['SQLALCHEMY_DATABASE_URI']=os.environ.get('DATABASE_URL')
+# app.config['SQLALCHEMY_DATABASE_URI']='sqlite:///news.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS']=False
 
 db.init_app(app)
@@ -48,11 +48,11 @@ def load_item(file_name):
         next(reader)
         for row in reader:
             print(row)
-            item = Item(title=row[0], link=row[1], guid=row[2],
-                        atom=row[3], description=row[4],
-                        creator=row[5], pubDate=row[6],
-                        category=row[7], media_content=row[8],
-                        media_credit=row[9], media_description=row[10])
+            item = Item(title=row[0].decode('utf8', 'ignore'), link=row[1].decode('utf8', 'ignore'), guid=row[2].decode('utf8', 'ignore'),
+                        atom=row[3].decode('utf8', 'ignore'), description=row[4].decode('utf8', 'ignore'),
+                        creator=row[5].decode('utf8', 'ignore'), pubDate=row[6].decode('utf8', 'ignore'),
+                        category=row[7].decode('utf8', 'ignore'), media_content=row[8].decode('utf8', 'ignore'),
+                        media_credit=row[9].decode('utf8', 'ignore'), media_description=row[10].decode('utf8', 'ignore'))
             db.session.add(item)
             db.session.commit()
 

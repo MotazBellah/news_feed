@@ -160,7 +160,7 @@ for j in root.findall('channel'):
         try:
             creator = i.find('dc:creator', ns).text
         except Exception as e:
-            creator = " "
+            creator = "null"
         item_node.append(creator)
 
         pubDate = i.find('pubDate').text
@@ -172,23 +172,23 @@ for j in root.findall('channel'):
         try:
             media_content = i.find('media:content', ns).get('url')
         except Exception as e:
-            media_content = ' '
-        else:
-            item_node.append(media_content)
+            media_content = 'null'
+
+        item_node.append(media_content)
             #
         try:
             media_credit = i.find('media:credit', ns).text
         except Exception as e:
-            media_credit = ' '
-        else:
-            item_node.append(media_credit)
+            media_credit = 'null'
+
+        item_node.append(media_credit)
             #
         try:
             media_description = i.find('media:description', ns).text
         except Exception as e:
-            media_description = ' '
-        else:
-            item_node.append(media_description)
+            media_description = 'null'
+
+        item_node.append(media_description)
 
         item_writer.writerow(item_node)
 
