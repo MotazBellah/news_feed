@@ -24,7 +24,7 @@ def load_channel(file_name):
                               img_url=row[8], img_link=row[9])
             print(channel.title)
             db.session.add(channel)
-            db.commit()
+            db.session.commit()
 
 # def load_channel2():
 #     url = 'https://github.com/MotazBellah/news_feed/blob/master/news.csv'
