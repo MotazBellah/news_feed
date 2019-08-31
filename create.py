@@ -6,6 +6,7 @@ from database_setup import *
 app = Flask(__name__)
 
 app.config['SQLALCHEMY_DATABASE_URI']=os.environ.get('DATABASE_URL')
+# app.config['SQLALCHEMY_DATABASE_URI']='sqlite:///news.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS']=False
 
 db.init_app(app)
@@ -15,6 +16,7 @@ def load_channel(file_name):
         reader = csv.reader(f)
         next(reader)
         for row in reader:
+            print(len(row))
             channel = Channel(title=row[0], link=row[1],
                               atom=row[2], description=row[3],
                               language=row[4], copyright=row[5],
@@ -22,6 +24,7 @@ def load_channel(file_name):
                               img_url=row[8], img_link=row[9])
             db.session.add(channel)
             db.commit()
+
 
 
 def load_item(file_name):
@@ -44,8 +47,8 @@ def load_data():
     load_item('item2.csv')
 
 def main():
-    load_data()
     db.create_all()
+    load_data()
 
 if __name__ == "__main__":
     with app.app_context():
