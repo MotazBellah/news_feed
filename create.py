@@ -41,7 +41,7 @@ def load_item(file_name):
             db.commit()
 
 def load_data():
-    load_channel('news.csv')
+    load_channel('https://github.com/MotazBellah/news_feed/blob/master/news.csv')
     load_channel('news2.csv')
     load_item('item.csv')
     load_item('item2.csv')
