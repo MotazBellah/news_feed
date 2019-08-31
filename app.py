@@ -30,15 +30,36 @@ def show_channel():
 @app.route('/news/<int:channel_id>', methods=['GET', 'POST'])
 def show_news(channel_id):
     news = Item.query.filter_by(channel_id=channel_id).all()
+    # if request.method == 'POST':
+    #     id = int(request.form['id'])
+    #     print(id)
+    #     if request.form['rate']:
+    #         id = int(request.form['id'])
+    #         selected_item = Item.query.filter_by(id=id).first()
+    #         selected_item.rate = request.form['rate']
+    #         print(Item_rating.rate)
+    #         db.session.add(selected_item)
+    #         db.session.commit()
+    return render_template('news.html', news=news)
+
+
+@app.route('/news/rate/<int:news_id>', methods=['GET','POST'])
+def rate(news_id):
+    selected_item = Item.query.filter_by(id=news_id).first()
+    channel_id = selected_item.channel_id
     if request.method == 'POST':
         if request.form['rate']:
-            id = int(request.form['id'])
-            selected_item = Item.query.filter_by(id=id).first()
             selected_item.rate = request.form['rate']
-            print(Item_rating.rate)
-            db.session.add(selected_item)
-            db.session.commit()
-    return render_template('news.html', news=news)
+            # db.session.add(selected_item)
+            db.session.merge(selected_item)
+            try:
+                db.session.commit()
+            except:
+                db.session.rollback()
+            db.session.close()
+        return redirect(url_for('show_news', channel_id=channel_id))
+    return render_template('rate.html', news_id=news_id)
+
 
 
 if __name__ == '__main__':
