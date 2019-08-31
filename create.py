@@ -1,5 +1,6 @@
 import os
 import csv
+import urllib2
 from flask import Flask
 from database_setup import *
 
@@ -24,6 +25,20 @@ def load_channel(file_name):
                               img_url=row[8], img_link=row[9])
             db.session.add(channel)
             db.commit()
+
+def load_channel2():
+    url = 'https://github.com/MotazBellah/news_feed/blob/master/news.csv'
+    response = urllib2.urlopen(url)
+    reader = csv.reader(response)
+    next(reader)
+    for row in reader:
+        channel = Channel(title=row[0], link=row[1],
+                              atom=row[2], description=row[3],
+                              language=row[4], copyright=row[5],
+                              lastBuildDate=row[6], img_title=row[7],
+                              img_url=row[8], img_link=row[9])
+        db.session.add(channel)
+        db.commit()
 
 
 
