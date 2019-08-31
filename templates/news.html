@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+           {% for i in news %}
+           <a href="{{i.link}}">{{i.title}}</a><br><br>
+           <img src="{{i.media_content}}" alt="">
+           <p>{{i.description}}</p>
+           {{i.rate}}
+           <form action="{{ url_for('show_news', channel_id=i.channel_id) }}" method="post">
+               <input type="number" name ='rate' id='{{i.id}}' step="0.1" max=5 placeholder="0.0" required>
+               <input type="submit" name="" value="Rate">
+           </form>
+
+           <hr>
+           {% endfor %}
+        </div>
+
+    </body>
+</html>

@@ -5,8 +5,8 @@ from database_setup import *
 
 app = Flask(__name__)
 
-app.config['SQLALCHEMY_DATABASE_URI']=os.environ.get('DATABASE_URL')
-# app.config['SQLALCHEMY_DATABASE_URI']='sqlite:///news.db'
+# app.config['SQLALCHEMY_DATABASE_URI']=os.environ.get('DATABASE_URL')
+app.config['SQLALCHEMY_DATABASE_URI']='sqlite:///news.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS']=False
 
 db.init_app(app)
@@ -15,8 +15,9 @@ def load_channel(file_name):
     with open(r'{}'.format(file_name), 'r') as f:
         reader = csv.reader(f)
         next(reader)
+
         for row in reader:
-            # print(len(row))
+            print(row)
             channel = Channel(title=row[0], link=row[1],
                               atom=row[2], description=row[3],
                               language=row[4], copyright=row[5],
@@ -42,7 +43,7 @@ def load_channel(file_name):
 
 
 
-def load_item(file_name):
+def load_item(file_name, channel_id):
     with open(r'{}'.format(file_name), 'r') as f:
         reader = csv.reader(f)
         next(reader)
@@ -52,15 +53,16 @@ def load_item(file_name):
                         atom=row[3].decode('utf8', 'ignore'), description=row[4].decode('utf8', 'ignore'),
                         creator=row[5].decode('utf8', 'ignore'), pubDate=row[6].decode('utf8', 'ignore'),
                         category=row[7].decode('utf8', 'ignore'), media_content=row[8].decode('utf8', 'ignore'),
-                        media_credit=row[9].decode('utf8', 'ignore'), media_description=row[10].decode('utf8', 'ignore'))
+                        media_credit=row[9].decode('utf8', 'ignore'), media_description=row[10].decode('utf8', 'ignore'),
+                        rate=0.0, channel_id=channel_id)
             db.session.add(item)
             db.session.commit()
 
 def load_data():
     load_channel('news.csv')
     load_channel('news2.csv')
-    load_item('item.csv')
-    load_item('item2.csv')
+    load_item('item.csv', 1)
+    load_item('item2.csv', 2)
 
 def main():
     db.create_all()

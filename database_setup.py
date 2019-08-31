@@ -48,5 +48,6 @@ class Item(db.Model):
     media_content = db.Column(db.String(250))
     media_credit = db.Column(db.String(250))
     media_description = db.Column(db.String(250))
+    rate = db.Column(db.Float, default=0.0)
     channel_id = db.Column(db.Integer, db.ForeignKey('channel.id'))
     channel = db.relationship(Channel)

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+        <div>
+           {% for i in channels %}
+           <!-- {{i.title}} -->
+           <a href="{{url_for('show_news', channel_id = i.id)}}">{{i.title}}</a><br><br>
+           <img src="{{i.img_url}}" alt="">
+           <p>{{i.description}}</p>
+           <hr>
+           {% endfor %}
+        </div>
+
+    </body>
+</html>
