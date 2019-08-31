@@ -63,7 +63,8 @@ def load_data():
 
 def main():
     db.create_all()
-    load_data()
+    # load_data()
+    load_channel2()
 
 if __name__ == "__main__":
     with app.app_context():
