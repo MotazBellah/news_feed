@@ -1,6 +1,6 @@
 import os
 import csv
-import urllib2
+from urllib.request import urlopen
 from flask import Flask
 from database_setup import *
 
@@ -28,7 +28,7 @@ def load_channel(file_name):
 
 def load_channel2():
     url = 'https://github.com/MotazBellah/news_feed/blob/master/news.csv'
-    response = urllib2.urlopen(url)
+    response = urlopen(url)
     reader = csv.reader(response)
     next(reader)
     for row in reader:
