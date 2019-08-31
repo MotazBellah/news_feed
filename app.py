@@ -2,10 +2,7 @@ from flask import Flask, render_template, request, redirect, url_for, jsonify, f
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from database_setup import *
-from time import gmtime, strftime
-from flask_login import LoginManager, login_user, current_user, login_required, logout_user
 from flask import session as login_session
-from wtform_fields import *
 from database_setup import db as d
 
 
@@ -27,7 +24,7 @@ def login_form():
 
 
 if __name__ == '__main__':
-    app.secret_key = 'super_secret_key'
+    # app.secret_key = 'super_secret_key'
     # PORT = int(os.environ.get('PORT', 8000))
     # app.debug = True
     # app.run(host='0.0.0.0', port=PORT)
