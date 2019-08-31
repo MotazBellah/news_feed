@@ -13,7 +13,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS']=False
 db.init_app(app)
 
 def load_channel(file_name):
-    with open(r'{}'.format(file_name), 'r') as f:
+    with open(r'{}'.format(file_name), 'rt') as f:
         reader = csv.reader(f)
         next(reader)
         for row in reader:
