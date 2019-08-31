@@ -28,7 +28,7 @@ def load_channel(file_name):
 
 def load_channel2():
     url = 'https://github.com/MotazBellah/news_feed/blob/master/news.csv'
-    response = urlopen(url)
+    response = urlopen(url, 'r')
     reader = csv.reader(response)
     next(reader)
     for row in reader:
