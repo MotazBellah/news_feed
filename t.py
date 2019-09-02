@@ -1,23 +1,14 @@
-import csv
-from flask import Flask
-from database_setup import *
+import json
+from flask import Flask, render_template, request, redirect, url_for, jsonify, flash
 
-app = Flask(__name__)
+def best_news():
+    tweets = []
+    with open('static/best_news.json', 'r') as json_file:
+        data = json.load(json_file)
+        return data
+        # tweets.append(json.loads(line))
+    #     print(json.loads(line))
+    # return json.dumps([tweets])
+    # return json.load(([json.loads(line) for line in open('static/best_news.json', 'r')]))
 
-# app.config['SQLALCHEMY_DATABASE_URI']=os.environ.get('DATABASE_URL')
-app.config['SQLALCHEMY_DATABASE_URI']='sqlite:///news.db'
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS']=False
-
-db.init_app(app)
-
-def load_item(file_name, channel_id):
-    with open(r'{}'.format(file_name), 'r') as f:
-        reader = csv.reader(f)
-        next(reader)
-        for row in reader:
-            print(row)
-            item = Item(channel_id=channel_id)
-            db.session.add(item)
-            db.session.commit()
-load_item('item.csv', 1)
-load_item('item2.csv', 2)
+print(best_news())

@@ -5,6 +5,16 @@ from database_setup import *
 from flask import session as login_session
 from database_setup import db as d
 import os
+import atexit
+import logging
+from datetime import datetime
+from pytz import utc
+import json
+from apscheduler.schedulers.background import BackgroundScheduler
+from apscheduler.jobstores.sqlalchemy import SQLAlchemyJobStore
+from apscheduler.executors.pool import ThreadPoolExecutor, ProcessPoolExecutor
+from apscheduler.events import EVENT_JOB_ERROR, EVENT_JOB_EXECUTED
+logging.basicConfig()
 
 
 app = Flask(__name__)
@@ -17,7 +27,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 db = SQLAlchemy(app)
 
-
+schedule_app = Flask(__name__)
 
 @app.route('/', methods=['GET', 'POST'])
 def show_channel():
@@ -61,9 +71,121 @@ def rate(news_id):
     return render_template('rate.html', news_id=news_id)
 
 
+@app.route('/best-news/JSON')
+def best_news():
+    with open('static/best_news.json', 'r') as json_file:
+        data = json.load(json_file)
+    return jsonify(best_news=data)
+    # tweets = []
+    # for line in open('static/best_news.json', 'r'):
+    #     tweets.append(json.loads(line))
+    #     print(json.loads(line))
+    # return json.dumps([tweets])
+    # return json.load(([json.loads(line) for line in open('static/best_news.json', 'r')]))
+    # best = []
+    # filename = os.path.join(app.static_folder, 'best_news.json')
+    # with open(filename) as best_news:
+    #     for i in best_news:
+    #         print(i)
+    #         best.append(json.loads(i))
+
+    # return jsonify(tweets)
+# @app.route('/best-news/JSON')
+# def best_news():
+#     news = Item.query.order_by(Item.rate.desc()).limit(5).all()
+#     x=[i.serialize for i in news]
+#     print(x)
+#     return jsonify(news=[i.serialize for i in news])
+
+
+# jobstores = {
+#     'default': SQLAlchemyJobStore(url='sqlite:///news.db')
+# }
+# executors = {
+#     'default': ThreadPoolExecutor(20),
+#     'processpool': ProcessPoolExecutor(5)
+# }
+# job_defaults = {
+#     'coalesce': True,
+#     'max_instances': 1
+#     # 'replace_existing':True,
+#
+# }
+#
+# scheduler = BackgroundScheduler(jobstores=jobstores, executors=executors, job_defaults=job_defaults, timezone=utc)
+# global x
+# def testJob():
+#
+#     # print('x')
+#     with app.app_context():
+#         s = []
+#         news = Item.query.order_by(Item.rate.desc()).limit(5).all()
+#         x=[i.serialize for i in news]
+#         # print(x)
+#         # db.session.rollback()
+#         # for new in news:
+#     # best_news = CornJob(title=new.title,
+#     #                                          link=new.link,
+#     #                                          description=new.description,
+#     #                                          creator=new.creator,
+#     #                                          pubDate=new.pubDate,
+#     #                                          category=new.category,
+#     #                                          media_content=new.media_content,
+#     #                                          media_credit=new.media_credit,
+#     #                                          media_description=new.media_description,
+#     #                                          rate=new.rate
+#     #                                          )
+#     # db.session.add(best_news)
+#     # db.session.commit()
+#
+#         # s.append(new.title)
+#         # print(new.title)
+#         # print(s)
+#
+#
+
+# job = scheduler.add_job(testJob, 'interval', seconds=7)
+# scheduler.start()
+# # job = scheduler.add_job(testJob, 'interval', seconds=3)
+# print(x)
+
 
 if __name__ == '__main__':
+    x = []
     # app.secret_key = 'super_secret_key'
-    PORT = int(os.environ.get('PORT', 8000))
+    PORT = int(os.environ.get('PORT', 5000))
     app.debug = True
+    jobstores = {
+        'default': SQLAlchemyJobStore(url='sqlite:///news.db')
+    }
+    executors = {
+        'default': ThreadPoolExecutor(20),
+        'processpool': ProcessPoolExecutor(5)
+    }
+    job_defaults = {
+        'coalesce': True,
+        'max_instances': 1
+        # 'replace_existing':True,
+
+    }
+
+    scheduler = BackgroundScheduler(jobstores=jobstores, executors=executors, job_defaults=job_defaults, timezone=utc)
+
+    def testJob():
+        # print('x')
+        with app.app_context():
+            s = []
+            news = Item.query.order_by(Item.rate.desc()).limit(5).all()
+            x=[i.serialize for i in news]
+            with open('static/best_news.json', 'w') as json_file:
+                # for i in x:
+                json.dump(x, json_file)
+
+
+
+
+    job = scheduler.add_job(testJob, 'interval', seconds=7)
+    # scheduler.start()
+    # job = scheduler.add_job(testJob, 'interval', seconds=3)
+    # print(x)
     app.run(host='0.0.0.0', port=PORT)
